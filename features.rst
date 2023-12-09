@@ -102,10 +102,7 @@ You can Use Filter with Tags in the List
 
 **Available Tags List** - If this object have any action uses tags, it will be listed in the Available Tags Subpanel. This Subpanel will be hidden if no action uses tags in this object
 
-
 ---------
-
-
 
 Action Button 
 ++++++++++++++++++++++++++++++
@@ -118,7 +115,7 @@ Action Button are Buttons you can enable and disable in the list
 
     **Link State / Make Local -** Show Make Local Button if the Action is Link
 
-    **Bake This Action -** This Button Bake this this Action
+    **Bake This Action -** This Button Bake the Active Action
 
     **Select -** Selet State for this Action, use for baking multiple action
 
