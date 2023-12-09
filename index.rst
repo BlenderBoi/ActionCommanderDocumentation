@@ -14,7 +14,7 @@ This Addon is useful for Game Development / Asset with Animation, as it is usefu
 
 This addon is a successor of `Frame Ranger <https://frame-ranger.readthedocs.io/en/latest/index.html>`_ 
 
-Read :doc:`src/aboutFrameRanger` about the Deprecreation of Frame Ranger
+Read :doc:`aboutFrameRanger` about the Deprecreation of Frame Ranger
 
 .. note::
 
@@ -32,6 +32,8 @@ Read :doc:`src/aboutFrameRanger` about the Deprecreation of Frame Ranger
    overview
    aboutFrameRanger
    features
+   bugReport 
+   FrameRangerCustomer
 
 Indices and tables
 ==================
