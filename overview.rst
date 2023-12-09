@@ -12,15 +12,21 @@ Action Commander is a Blender Add-on that helps manages multiple actions in your
 
 This Addon is useful for Game Development / Asset with Animation, as it is useful when your model uses many Animation
 
-This addon is a successor of `Frame Ranger <https://frame-ranger.readthedocs.io/en/latest/index.html>`_ 
+this addon is a successor of `frame ranger <https://frame-ranger.readthedocs.io/en/latest/index.html>`_ 
 
-Read :doc:`aboutFrameRanger` about the Deprecreation of Frame Ranger
+read :doc:`aboutFrameRanger` about the deprecreation of frame ranger
 
 .. note::
 
    If You Have Already Purchased Frame Ranger On Blendermarket, you will be able to claim Action Commander For Free
 
 
+Demo: Animate an Animation Set
+-------------------------------
 
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9c06Zuob6Wc?si=xrOwJy8Yqfurhq6_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 
