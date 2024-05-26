@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Action Commander
-================
+Overview
+=========================
+
 
 .. image:: /images/ActionCommanderBannerNew.jpg
 
@@ -12,28 +13,40 @@ Action Commander is a Blender Add-on that helps manages multiple actions in your
 
 This Addon is useful for Game Development / Asset with Animation, as it is useful when your model uses many Animation
 
-This addon is a successor of `Frame Ranger <https://frame-ranger.readthedocs.io/en/latest/index.html>`_ 
+Highlighted Features
+--------------------
 
-Read :doc:`aboutFrameRanger` about the Deprecreation of Frame Ranger
+Quick Action Switching
+----------------------------
 
-.. note::
+Action Commander lets you easily manage multiple actions in a Blend file. 
 
-   If You Have Already Purchased Frame Ranger On Blendermarket, you will be able to claim Action Commander For Free
+.. video:: _static/AnimationSwitching.webm
+    :width: 600
+    :autoplay:
+    :loop:
+    :nocontrols:
+    :muted:
 
-
+The Action Commander shows the Actions that are associate or stored in a Object. With this Panel, you can Switch Actions with Ease
 
 
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: MANUAL:
 
-   overview
-   aboutFrameRanger
+   self
    features
+
+.. toctree::
+   :maxdepth: 3
+   :caption: INFORMATION:
+
+   changelog
    bugReport 
-   FrameRangerCustomer
+   legacy
 
 Indices and tables
 ==================

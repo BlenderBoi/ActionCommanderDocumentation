@@ -6,7 +6,7 @@
 Overview
 ================
 
-.. image:: /images/ActionCommanderBanner.png
+.. image:: /images/ActionCommanderBannerNew.jpg
 
 Action Commander is a Blender Add-on that helps manages multiple actions in your blend file with many different Utilities including switching Action, Importing FBX Actions, and Many More. 
 

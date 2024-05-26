@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ActionCommander'
-copyright = '2023, blenderboi'
-author = 'blenderboi'
-release = '1.0.0'
+project = 'Action Commander'
+copyright = '2024, tinkerboi'
+author = 'tinkerboi'
+release = '1.2.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -29,6 +29,6 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_logo = "images/logo.png"
 html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
+    'display_version': True,
+    'sidebar_hide_name': True,
 }
