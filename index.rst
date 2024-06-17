@@ -6,20 +6,41 @@
 Overview
 =========================
 
-
 .. image:: /images/ActionCommanderBannerNew.jpg
 
-Action Commander is a Blender Add-on that helps manages multiple actions in your blend file with many different Utilities including switching Action, Importing FBX Actions, and Many More. 
+Action Commander is a Blender add-on that assists in managing multiple actions in your blend file with a variety of utilities including Switching Action, Importing FBX Actions and many more.
 
-This Addon is useful for Game Development / Asset with Animation, as it is useful when your model uses many Animation
+This addon is useful for Game Development / Asset with Animation as it’s a convenience when your model uses multiple animations. 
+
 
 Highlighted Features
---------------------
++++++++++++++++++++++++
 
-Quick Action Switching
+Action Commander Comes with Many Features, Below are the highlighted features in Action Commander
+
+
+---------
+
+Multi Action Management
 ----------------------------
 
-Action Commander lets you easily manage multiple actions in a Blend file. 
+.. image:: /images/ActionCommanderPanel.png
+
+The Multi Action Management feature allows you to manage multiple actions in a single panel, avoiding the hassle of going through different sections.
+
+---------
+
+Action Switching
+-----------------------------
+
+The core function of this addon is Animation Switching with Frame Range adjusted when you switch action.
+
+This function is useful when you are working on multiple action sets, such as creating an animation set for your game character models and enabling you to switch animations in between with ease.
+
+In addition, the actions are stored on the Object itself, so only relevant Actions that is added by you will be shown in the list
+
+With this feature, you can switch action with ease
+
 
 .. video:: _static/AnimationSwitching.webm
     :width: 600
@@ -28,29 +49,53 @@ Action Commander lets you easily manage multiple actions in a Blend file.
     :nocontrols:
     :muted:
 
-The Action Commander shows the Actions that are associate or stored in a Object. With this Panel, you can Switch Actions with Ease
+---------
 
+Import & Load FBX Action
+--------------------------------
+
+Action Commander allows you to import FBX actions without mesh or armature, this works by removing any unnecessary data after import. 
+
+This is a wrapper operator that wraps on the blender internal Import FBX that cleanups unnecessary mesh or armature after import, it can also load to the relevant objects if needed. 
+
+This feature is useful for users who want to import multiple Mixamo Animations without the mesh or armature into your blend file. 
+
+---------
+
+Action Bin
+--------------------------------
+
+Action Bin list all Actions in a blend file,it is a convenience as it helps manage inactive actions unused/unwanted actions in a single panel. 
+
+.. image:: /images/ActionBin.png
+
+---------
+
+Utilities and Many More
+--------------------------------
+
+Action Commander also comes with many utility operator to help with the management of multiple addons
+
+.. image:: /images/ActionCommanderExtraMenu.png
 
 
 
 .. toctree::
-   :maxdepth: 3
-   :caption: MANUAL:
+   :maxdepth: 4
+   :caption: User Guide:
+   :hidden:
 
    self
+   installation
+   compatibility
    features
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: INFORMATION:
+   :hidden:
 
    changelog
    bugReport 
    legacy
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
