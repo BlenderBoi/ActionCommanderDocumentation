@@ -71,7 +71,7 @@ This Operator Only Remove the Action From The Object's Action List and Do not re
 Load Action
 ++++++++++++++
 
-.. video:: ../../_static/LoadAction.webm
+.. video:: ../../static/LoadAction.webm
     :width: 600
     :autoplay:
     :loop:
@@ -143,7 +143,7 @@ Duplicate (Item)
 Load Duplicate
 ++++++++++++++++++
 
-.. video:: ../../_static/LoadDuplicate.webm
+.. video:: ../../static/LoadDuplicate.webm
     :width: 600
     :autoplay:
     :loop:

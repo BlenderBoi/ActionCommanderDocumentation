@@ -12,7 +12,7 @@ Animation Switching
 
 - Animation Switching is activated when you click the Action in the list or Using the :ref:`Refresh Frame Range` Operator
 
-.. video:: ../../_static/AnimationSwitching.webm
+.. video:: ../../static/AnimationSwitching.webm
     :width: 600
     :autoplay:
     :loop:

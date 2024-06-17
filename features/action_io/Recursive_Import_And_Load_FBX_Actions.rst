@@ -4,7 +4,7 @@
 Recursive Import And Load FBX Actions
 --------------------------------------
 
-.. video:: ../../_static/RecursiveImportFBX.webm
+.. video:: ../../static/RecursiveImportFBX.webm
     :width: 600
     :autoplay:
     :loop:

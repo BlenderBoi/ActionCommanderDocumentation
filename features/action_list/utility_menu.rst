@@ -25,7 +25,7 @@ Replace Slot
 
 - False: Add the duplicated Actions into the list instead of replacing them
 
-.. video:: ../../_static/DuplicateAll.webm
+.. video:: ../../static/DuplicateAll.webm
     :width: 600
     :autoplay:
     :loop:

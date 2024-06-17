@@ -6,7 +6,7 @@ Append / Link All Actions from Multiple Blend File
 
 This is an wrapper Operator Allow you to append all actions from Multiple Blend file, you cannot choose which action to import however
 
-.. video:: ../../_static/AppendMultipleBlendFile.webm
+.. video:: ../../static/AppendMultipleBlendFile.webm
     :width: 600
     :autoplay:
     :loop:

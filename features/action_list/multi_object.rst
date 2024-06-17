@@ -8,7 +8,7 @@ While it is not the most useful feature, it is possible to display multiple obje
 
 Because the uses of this feature is niche and it clutters the UI, this is disabled by default as most people don't need it, but you can enable it in the preferences. 
 
-.. video:: ../../_static/MultiObjectSupport.webm
+.. video:: ../../static/MultiObjectSupport.webm
     :width: 600
     :autoplay:
     :loop:

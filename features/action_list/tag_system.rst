@@ -69,7 +69,7 @@ Characteristics of Tags
 - Not Case Sensitive, 
 - Separated By Comma. 
 
-.. video:: ../../_static/TagFilter.webm
+.. video:: ../../static/TagFilter.webm
     :width: 600
     :autoplay:
     :loop:

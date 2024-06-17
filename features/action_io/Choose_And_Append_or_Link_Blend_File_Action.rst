@@ -7,7 +7,7 @@ Choose and Append / Link Blend File Action
 This is a wrapper Operator Allow you to Choose and Append / Link multiple Action in a Blend File and Add to the List
 
 .. Need Update
-.. video:: ../../_static/AppendAndChooseBlendFile.webm
+.. video:: ../../static/AppendAndChooseBlendFile.webm
     :width: 600
     :autoplay:
     :loop:

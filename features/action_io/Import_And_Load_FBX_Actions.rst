@@ -4,7 +4,7 @@
 Import And Load FBX Actions
 -------------------------------
 
-.. video:: ../../_static/ImportFBXAction.webm
+.. video:: ../../static/ImportFBXAction.webm
     :width: 600
     :autoplay:
     :loop:

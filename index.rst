@@ -42,7 +42,7 @@ In addition, the actions are stored on the Object itself, so only relevant Actio
 With this feature, you can switch action with ease
 
 
-.. video:: _static/AnimationSwitching.webm
+.. video:: static/AnimationSwitching.webm
     :width: 600
     :autoplay:
     :loop:
